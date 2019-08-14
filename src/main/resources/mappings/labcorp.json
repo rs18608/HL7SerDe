@@ -1,0 +1,28 @@
+{
+    "patient_id": "/.PID-3",
+    "patient_name": "/.PID-5",
+    "dob": "/.PID-7",
+    "patient_gender": "/.PID-8",
+    "street": "/.PID-11",
+    "city": "/.PID-11-3",
+    "state": "/.PID-11-4",
+    "zip": "/.PID-11-5",
+    "notes": "/.OBX",
+    "test_code": "/.OBX(0)-3-4",
+    "test_name": "/.OBX(0)-3-5",
+    "test_units": "/.OBX(0)-6",
+    "test_results": "/.OBX(0)-5",
+    "reference_range": "/.OBX(0)-7",
+    "abnormal_flags": "/.OBX(0)-8",
+    "probability": "/.OBX(0)-9",
+    "obx_result_status": "/.OBX(0)-11",
+    "date_of_obx": "/.OBX(0)-14",
+    "producer_id": "/.OBX(0)-15",
+    "responsible_observer": "/.OBX(0)-16",
+    "obx_method": "/.OBX(0)-17",
+    "obx_request_date": "/.OBX(0)-7",
+    "ordering_provider": "/.OBX(0)-16",
+    "order_description": "/.OBX(0)-4"
+}
+
+
